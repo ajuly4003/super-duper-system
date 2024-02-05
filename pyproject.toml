@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
-dynamic = ["version", "description"]
+name = "Bin Lookup Api Python"
+authors = [{name = "Ajuly4003", email = "info@bxis.app"}]
+dynamic = ["1.0.0", "Bin Lookup With Python"]
